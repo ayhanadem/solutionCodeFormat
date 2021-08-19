@@ -1,0 +1,6 @@
+com/interview/fortumowebserver/FortumoWebServerApplication.class
+com/interview/fortumowebserver/utils/Barrier.class
+com/interview/fortumowebserver/ServletInitializer.class
+com/interview/fortumowebserver/repository/CalculationRepository.class
+com/interview/fortumowebserver/utils/ProcessRequest.class
+com/interview/fortumowebserver/controller/CalculationController.class
